@@ -1,0 +1,12 @@
+modLoader="neoforge"
+loaderVersion="[47,)" # Replace with the actual loader version range from the NeoForge MDK
+license="All Rights Reserved"
+[[mods]]
+modId="grip-strength"
+version="0.1.0"
+displayName="Grip Strength"
+description='''
+A modular tool mod.
+This file is a starter mods.toml for NeoForge/Forge-compatible loaders for Minecraft 1.21.1.
+Replace loaderVersion and other fields to match the MDK values you use.
+'''
