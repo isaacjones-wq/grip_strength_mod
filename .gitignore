@@ -1,1 +1,19 @@
 
+# Ignore common build/IDE files
+.gradle/
+build/
+out/
+.gradle-cache/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Gradle wrapper
+gradle/wrapper/
+
+# Mac
+.DS_Store
